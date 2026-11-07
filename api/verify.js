@@ -8,7 +8,7 @@ import { kv } from '@vercel/kv';
  * ⚠️ غيّر هذه القوائم عند إصدار مفاتيح جديدة للعملاء.
  */
 const LIFETIME_KEYS = ["64869"];
-const SUBSCRIPTION_KEYS = ["SUB6M-TEST1", "SUB6M-TEST2", "SUB-6MONTH-01"];
+const SUBSCRIPTION_KEYS = ["monthly-subscribe-talentflow2026"];
 
 /** مدة الاشتراك: 6 أشهر */
 const SUBSCRIPTION_DURATION_MS = 6 * 30 * 24 * 60 * 60 * 1000; // 6 أشهر
