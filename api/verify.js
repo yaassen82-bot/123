@@ -7,7 +7,7 @@ import { kv } from '@vercel/kv';
  *
  * ⚠️ غيّر هذه القوائم عند إصدار مفاتيح جديدة للعملاء.
  */
-const LIFETIME_KEYS = ["I9J29", "L10-2026"];
+const LIFETIME_KEYS = ["I9J29", "L10-2026", "M19VC1"];
 const SUBSCRIPTION_KEYS = ["X7R29", "K9M28"];
 
 /** مدة الاشتراك: 6 أشهر */
